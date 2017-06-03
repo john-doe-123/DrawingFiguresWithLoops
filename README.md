@@ -23,7 +23,7 @@ Draws a 10 x 10 rectangle.
 ```
 ---
 
-## 2. NByNRectangle:
+## 2. RectangleOfStars:
 
 ### Description:
 
@@ -43,3 +43,23 @@ Draws a N x N rectangle.
 ```
 ---
 
+## 3. SquareOfStars:
+
+### Description:
+
+Draws a N x N square.
+
+#### Input:
+```
+5
+```
+#### Output:
+
+```
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
+---

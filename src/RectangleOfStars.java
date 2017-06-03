@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by pesho on 6/3/2017.
  */
-public class NByNRectangle {
+public class RectangleOfStars {
 
     public static void main(String[] args) {
 
