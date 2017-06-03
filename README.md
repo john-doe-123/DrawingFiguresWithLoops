@@ -63,3 +63,25 @@ Draws a N x N square.
 * * * * *
 ```
 ---
+
+## 4. TriangleOfDollars:
+
+### Description:
+
+Draws a triangle using the dollar sign.
+
+#### Input:
+```
+6
+```
+#### Output:
+
+```
+$
+$ $
+$ $ $
+$ $ $ $
+$ $ $ $ $
+$ $ $ $ $ $
+```
+---
