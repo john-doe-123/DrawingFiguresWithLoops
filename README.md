@@ -1,7 +1,7 @@
 # Drawing figures with loops
 
 
-## 1. TenByTenRectangle:
+## 1. [TenByTenRectangle](src/TenByTenRectangle.java):
 
 ### Description:
 
