@@ -1,1 +1,19 @@
-# DrawingFiguresWithLoops
+# Drawing figures with loops
+
+
+## 1. TenByTenRectangle:
+
+### Output:
+
+```
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+```
