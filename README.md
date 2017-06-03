@@ -23,7 +23,7 @@ Draws a 10 x 10 rectangle.
 ```
 ---
 
-## 2. RectangleOfStars:
+## 2. [RectangleOfStars](/src/RectangleOfStars.java):
 
 ### Description:
 
@@ -43,7 +43,7 @@ Draws a N x N rectangle.
 ```
 ---
 
-## 3. SquareOfStars:
+## 3. [SquareOfStars](src/SquareOfStars.java):
 
 ### Description:
 
@@ -64,7 +64,7 @@ Draws a N x N square.
 ```
 ---
 
-## 4. TriangleOfDollars:
+## 4. [TriangleOfDollars](src/TriangleOfDollars.java):
 
 ### Description:
 
@@ -86,7 +86,7 @@ $ $ $ $ $ $
 ```
 ---
 
-## 5. SquareFrame:
+## 5. [SquareFrame](src/SquareFrame.java):
 
 ### Description:
 
@@ -106,5 +106,36 @@ Draws a N by N square frame.
 | - - - - - |
 | - - - - - |
 + - - - - - +
+```
+---
+
+## 6. [RhombusOfStars](src/RhombusOfStars.java):
+
+### Description:
+
+Draws a N by N rhombus.
+
+#### Input:
+```
+8
+```
+#### Output:
+
+```
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+  * * * * * *
+ * * * * * * *
+* * * * * * * *
+ * * * * * * *
+  * * * * * *
+   * * * * *
+    * * * *
+     * * *
+      * *
+       *
 ```
 ---
