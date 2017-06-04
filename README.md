@@ -211,7 +211,7 @@ Draws sunglasses.
 ```
 ---
 
-## 8. [House](src/House.java):
+## 9. [House](src/House.java):
 
 ### Description:
 
