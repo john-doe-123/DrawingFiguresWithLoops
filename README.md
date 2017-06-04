@@ -139,3 +139,40 @@ Draws a N by N rhombus.
        *
 ```
 ---
+
+## 7. [ChristmasTree](src/ChristmasTree.java):
+
+### Description:
+
+Draws a christmas tree.
+
+#### Input:
+```
+1
+```
+
+#### Output:
+```
+  |
+* | *
+```
+
+#### Input:
+```
+9
+```
+#### Output:
+
+```
+          |
+        * | *
+       ** | **
+      *** | ***
+     **** | ****
+    ***** | *****
+   ****** | ******
+  ******* | *******
+ ******** | ********
+********* | *********
+```
+---
