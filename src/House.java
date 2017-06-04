@@ -12,10 +12,13 @@ public class House {
         int n = Integer.parseInt(scanner.nextLine());
 
         int numAsterisk = n % 2 == 0 ? 2 : 1;
+        int numDashes = 0;
 
         for (int roofRows = 0; roofRows < (n + 1) / 2; roofRows++) {
 
-            for (int dashes = 0; dashes < (n - numAsterisk) / 2; dashes++) {
+            numDashes = (n - numAsterisk) / 2;
+
+            for (int dashes = 0; dashes < numDashes; dashes++) {
                 System.out.print("-");
             }
 
@@ -23,7 +26,7 @@ public class House {
                 System.out.print("*");
             }
 
-            for (int dashes = 0; dashes < (n - numAsterisk) / 2; dashes++) {
+            for (int dashes = 0; dashes < numDashes; dashes++) {
                 System.out.print("-");
             }
 
