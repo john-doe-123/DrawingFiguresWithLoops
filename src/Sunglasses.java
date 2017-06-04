@@ -42,6 +42,7 @@ public class Sunglasses {
                 }
                 // Empty space middle
             } else {
+
                 for (int i = 0; i < n; i++) {
                     System.out.print(" ");
                 }
