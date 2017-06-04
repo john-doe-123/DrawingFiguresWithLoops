@@ -90,7 +90,7 @@ $ $ $ $ $ $
 
 ### Description:
 
-Draws a N by N square frame.
+Draws a N x N square frame.
 
 #### Input:
 ```
@@ -113,7 +113,7 @@ Draws a N by N square frame.
 
 ### Description:
 
-Draws a N by N rhombus.
+Draws a N x N rhombus.
 
 #### Input:
 ```
