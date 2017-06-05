@@ -353,3 +353,24 @@ Draws a diamond.
 ```
 
 ---
+
+## 11. [Fort](src/Fort.java):
+
+### Description:
+
+Draws a fort.
+
+#### Input:
+```
+5
+```
+#### Output:
+
+```
+/^^\__/^^\
+|        |
+|        |
+|   __   |
+\__/  \__/
+```
+---
